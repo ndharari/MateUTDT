@@ -1,5 +1,3 @@
-## Curso de ingreso Mate UTDT
-
 Acá compartimos unos materiales que armamos mientras cursabamos el curso de ingreso a la Maestría de Economía de UTDT.
 Los archivos originales fueron escritos en markdown con Typora. Si les interesa verlos pueden encontrarlos en el repo de [github](https://github.com/ndharari/MateUTDT).
 
