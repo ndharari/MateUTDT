@@ -25,4 +25,4 @@ Los archivos originales fueron escritos en markdown con Typora. Si les interesa 
  - Calculus - Stewart (2008)
  - Vector Calculus - Marsden & Tromba (2011)
  - Apendix of Advanced Microeconomic Theory - Jehle & Reny (2011)
- - Tópicos de Matemática - Marco Spinelli (2020)
+ - Advanced Microeconomic Theory - Jehle & Reny (2011)
