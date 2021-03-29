@@ -26,5 +26,4 @@ Los archivos originales fueron escritos en markdown con Typora. Si les interesa 
  - Linear Algebra Done Wrong - Treil (2017)
  - Calculus - Stewart (2008) <br>
  - Vector Calculus - Marsden & Tromba (2011)
- - Tópicos de Matemática - Marco Spinelli (2020)
  - Apendix of Advanced Microeconomic Theory - Jehle & Reny (2011)
